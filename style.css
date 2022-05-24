@@ -94,7 +94,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("src/img/texture-paper_11zon.webp");
+    background: url("src/img/texture-paper_11zon.png");
     background-size: 280px 280px;
 }
 
@@ -837,15 +837,15 @@ li a {
 
 
 .bg-lines-h2-bg {
-    background-image: url("src/img/lines-h2-bg_11zon.webp");
+    background-image: url("src/img/lines-h2-bg_11zon.png");
 }
 
 .bg-banniere {
-    background-image: url("src/img/agence-la-panthere-min.webp");
+    background-image: url("src/img/agence-la-panthere-min.jpg");
 }
 
 .bg-presentation {
-    background-image: url("src/img/image-de-presentation_11zon.webp");
+    background-image: url("src/img/image-de-presentation_11zon.jpg");
 }
 
 @media (max-width: 1024px) {
