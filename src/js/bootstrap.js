@@ -65,6 +65,8 @@ if ("undefined" == typeof jQuery) throw new Error("Bootstrap's JavaScript requir
             f = e.attr("data-target");
         f || (f = e.attr("href"), f = f && f.replace(/.*(?=#[^\s]*$)/, ""));
         var g = a(f);
+
+
         b && b.preventDefault(), g.length || (g = e.closest(".alert")), g.trigger(b = a.Event("close.bs.alert")), b.isDefaultPrevented() || (g.removeClass("in"), a.support.transition && g.hasClass("fade") ? g.one("bsTransitionEnd", c).emulateTransitionEnd(d.TRANSITION_DURATION) : c())
     };
     var e = a.fn.alert;
