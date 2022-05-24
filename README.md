@@ -2,6 +2,8 @@
 
 ![apercu du site](src/img/screenshot.png)
 
+### 
+
 ## Consignes
 
 Bonjour,
@@ -27,3 +29,9 @@ Il faudra ensuite optimiser notre site en appliquant tes 10 recommandations à s
 ### Comparaison des résultats :
 La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 Tu l’imagines, tous ces éléments devront être codés en HTML et CSS. Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
+
+## Tester le projet
+
+Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne : https://marius13127.github.io/P4_Lapanthere_Isoardi_Marius/  
+
+Sinon téléchargé le fichier zip pour pouvoir effectuer des modifications.
