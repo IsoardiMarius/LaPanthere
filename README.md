@@ -32,6 +32,6 @@ Tu l’imagines, tous ces éléments devront être codés en HTML et CSS. Fais �
 
 ## Tester le projet
 
-Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne : https://marius13127.github.io/P4_Lapanthere_Isoardi_Marius/  
+Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne : https://isoardimarius.github.io/P4_Lapanthere_Isoardi_Marius/  
 
 Sinon téléchargé le fichier zip pour pouvoir effectuer des modifications.
