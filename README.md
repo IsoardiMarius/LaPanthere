@@ -1,6 +1,6 @@
 # P4_Lapanthere_Isoardi_Marius
 
-![apercu du site](src/img/screenshot.png)
+![apercu du site](screenshot.png)
 
 ### 
 
